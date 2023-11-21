@@ -1,0 +1,14 @@
+manage 2023-11-21 17:58:59,633 INFO Running module manage...
+manage 2023-11-21 18:02:09,465 ERROR Some kind of error, check log file
+Traceback (most recent call last):
+  File "D:\Admin\Task_Projects\Parsing_project\Errors_parsing\geeks_site\manage.py", line 50, in <module>
+    x = int(input("Please enter a number: "))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: ''
+manage 2023-11-21 18:03:28,487 INFO Running module manage...
+manage 2023-11-21 18:03:33,410 ERROR Some kind of error, check log file
+Traceback (most recent call last):
+  File "D:\Admin\Task_Projects\Parsing_project\Errors_parsing\geeks_site\manage.py", line 50, in <module>
+    x = int(input("Please enter a number: "))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'qwer'
